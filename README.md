@@ -1,2 +1,1 @@
-# masalskaja-megas
-masalskaja-megas
+# DimitraMegas.com
